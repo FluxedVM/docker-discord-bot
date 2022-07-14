@@ -1,5 +1,4 @@
 #!/bin/sh
-
 sudo apt update -y
 sudo apt upgrade -y
 sudo apt install docker.io -y # this should be the right repository for docker
